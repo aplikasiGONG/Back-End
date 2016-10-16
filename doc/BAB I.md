@@ -5,9 +5,9 @@ PENDAHULUAN
 
 1.2	Latar Belakang 
 
-     Service merupakan satu hal yang sangat penting dalam dunia bisnis karena service merupakan salah satu bentuk penghargaan kepada pelanggan. Service juga menjadi salah satu pertimbangan seseorang untuk memutuskan membeli produk atau menggunakan jasa dari sebua perusahaan. Service yang buruk bisa membuat pelanggan lari dan beralih ke perusahaan pesaing. Mengingat begitu pentingnya service bagi kelangsungan usaha kita, sudah selayaknya bila kita selalu menjaga service kita kepada pelanggan.
+   Service merupakan satu hal yang sangat penting dalam dunia bisnis karena service merupakan salah satu bentuk penghargaan kepada pelanggan. Service juga menjadi salah satu pertimbangan seseorang untuk memutuskan membeli produk atau menggunakan jasa dari sebua perusahaan. Service yang buruk bisa membuat pelanggan lari dan beralih ke perusahaan pesaing. Mengingat begitu pentingnya service bagi kelangsungan usaha kita, sudah selayaknya bila kita selalu menjaga service kita kepada pelanggan.
 
-     Dalam aplikasi GONG Berbasis Web Base yang telah dibangun masih terdapat celah maupun kekurangan. Misalnya dalam hal pencarian lapak nasi goreng, di dalam aplikasi sudah diberi layanan service map akan tetapi belum adanya system tracking agar user mengetahui jarak terdekat dengan posisi nya.
+   Dalam aplikasi GONG Berbasis Web Base yang telah dibangun masih terdapat celah maupun kekurangan. Misalnya dalam hal pencarian lapak nasi goreng, di dalam aplikasi sudah diberi layanan service map akan tetapi belum adanya system tracking agar user mengetahui jarak terdekat dengan posisi nya.
 Berdasarkan masalah tersebut, maka dibutuhkan pengembangan sistem informasi yang berfungsi sebagai sistem informasi nasi goreng yang berjudul Pengembangan Aplikasi GONG (GO Nasi Goreng) Berbasis Android (Framework Ionic). 
 
 1.3	Identifikasi Masalah
@@ -40,7 +40,7 @@ Berdasarkan kebutuhan yang ada akan dirancang suatu Sistem aplikasi database. Ya
 
 1.6 Batasan Masalah
 
-     Agar perancangan aplikasi tersebut terkesan sederhanan dan mudah mengerti tetepi tidak mengurangi tujuan penelitian, maka penulis membatasi perancangan aplikasi tersebut sebagai berikut :
+   Agar perancangan aplikasi tersebut terkesan sederhanan dan mudah mengerti tetepi tidak mengurangi tujuan penelitian, maka penulis membatasi perancangan aplikasi tersebut sebagai berikut :
 •	Tahapan pengembangan sistem yang dilakukan sampai pada tahap pembuatan program.
 •	Program hanya membahas tentang informasi mengenai menu dan harga per-item, pemanfaatan layanan google maps untuk proses pencarian lokasi penjual nasi goreng terdekat.
 •	Bahasa pemograman yang digunakan sebagai pembangun sistem adalah Ionic Framework dan untuk pengolahan basis datanya digunakan Cloud Server Back&.
