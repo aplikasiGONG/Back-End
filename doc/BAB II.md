@@ -3,7 +3,7 @@ TINJAUAN PUSTAKA
 
 2.1 Sistem Pengolahan
 
-	2.1.1 Sistem
+2.1.1 Sistem
 
 Sistem adalah suatu jaringan kerja dari prosedur-prosedurnya yang saling berhubungan, berkumpul bersama-sama untuk melakukan suatu kegiatan untuk melakukan suatu kegiatan atau untuk menyelesaikan suatu sasaran yang tertentu. Sedangkan suatu prosedur adalah urut-urutan yang tepat dari  tahapan-tahapan intruksi yang menerangkan apa(what)  yang harus dikerjakan, siapa(who) yang mengerjakannya, kapan(when) dikerjakan dan bagaimana(how)  mengerjakannya. Sedangkan pendekatan sistem lebih menekankan pada elemen atau komponennya mendifinisikan sistem adalah kumpulan dari beberapa elemen-elemen yang berinteraksi untuk menncapai suatu tujuan tertentu[1].
 	
